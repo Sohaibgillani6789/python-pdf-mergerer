@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PDF Merger Application
 
 ## Setup Instructions
@@ -95,3 +96,6 @@ If you don't see any output:
   ```
   python -m pip install -r requirements.txt
   ```
+=======
+# python-pdf-mergerer
+>>>>>>> 4a2b8e4b83ca3bb5ccb08d7f70e915593bc7bc68
